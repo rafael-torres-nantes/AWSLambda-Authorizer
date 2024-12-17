@@ -1,4 +1,4 @@
-# 🔧Lambda Authorization Handler
+# 🔐 Lambda Authorization Handler
 
 ## 👨‍💻 Projeto desenvolvido por: 
 [Rafael Torres Nantes](https://github.com/rafael-torres-nantes)
