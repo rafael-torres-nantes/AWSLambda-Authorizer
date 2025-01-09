@@ -28,7 +28,7 @@ O __Lambda Authorization Handler__ é um repositório dedicado à documentação
 
 O script `lambda_handler.py` realiza as seguintes operações:
 1. Carrega variáveis de ambiente do arquivo `.env` usando a biblioteca `dotenv`.
-2. Define os ARNs das funções Lambda a partir das variáveis de ambiente.
+2. Define os ARNs das funções Lambda que estão localizados no  __API GATEWAY__ a partir das variáveis de ambiente.
 3. Implementa a função `lambda_handler` que:
      - Loga o evento recebido.
      - Verifica se o token de autorização é válido.
